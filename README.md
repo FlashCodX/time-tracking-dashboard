@@ -19,5 +19,3 @@ MIT
 **Free Software, Hell Yeah!**
 
 [react]: https://reactjs.org/
-
-[redux] - https://redux.js.org/
