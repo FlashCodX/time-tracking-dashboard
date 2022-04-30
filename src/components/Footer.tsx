@@ -11,7 +11,7 @@ function Footer() {
     >
       Challenge by{" "}
       <a
-        href="https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H"
+        href="https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw"
         target="_blank"
         rel="noreferrer"
       >
