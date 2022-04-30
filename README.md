@@ -4,7 +4,7 @@
 
 A challenge made for Frontend Mentor.
 
-> Check it out: [https://FlashCodX.github.io/time-tracking-dashboard/]https://FlashCodX.github.io/time-tracking-dashboard/)
+> Check it out: [https://FlashCodX.github.io/time-tracking-dashboard/](https://FlashCodX.github.io/time-tracking-dashboard/)
 
 ## Tech
 
