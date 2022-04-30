@@ -20,5 +20,4 @@ MIT
 
 [react]: https://reactjs.org/
 
-[reacticons] - https://react-icons.github.io/react-icons/
 [redux] - https://redux.js.org/
