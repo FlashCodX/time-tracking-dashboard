@@ -1,7 +1,10 @@
 import { combineReducers } from "redux";
-import ThemeReducer from "./themeReducer";
+import dataReducer from "./dataReducer";
+import selectedReducer from "./selectedReducer";
+
 const reducers = combineReducers({
-  appTheme: ThemeReducer,
+  appData: dataReducer,
+  selected: selectedReducer,
 });
 
 export default reducers;

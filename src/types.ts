@@ -1,15 +1,12 @@
-export interface CardInterface{
-    icon:any,
-    socialRef:string,
-    description:string,
-    quantity:string,
-    positive:boolean,
-    value:string
-    borderColor?:string
+
+
+export interface TimeframeInterface{
+title:string,
 }
 
 
-export enum ThemeModes{
-    dark,
-    light
+export enum Timeframes{
+    Daily='daily',
+    Weekly='weekly',
+    Monthly='monthly'
 }

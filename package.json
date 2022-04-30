@@ -1,6 +1,6 @@
 {
-  "homepage": "https://FlashCodX.github.io/react-redux-template/",
-  "name": "react-redux-template",
+  "homepage": "https://FlashCodX.github.io/time-tracking-dashboard/",
+  "name": "time-tracking-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

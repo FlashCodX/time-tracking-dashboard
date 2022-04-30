@@ -1,9 +1,18 @@
-import { ThemeModes } from "../../types";
+import { Timeframes } from "../../types";
 
-export const setAppTheme = (state: ThemeModes) => {
+export const setAppData = (state: []) => {
   return (dispatch: any) => {
     dispatch({
-      type: "setAppTheme",
+      type: "setAppData",
+      payload: state,
+    });
+  };
+};
+
+export const setSelected = (state: Timeframes) => {
+  return (dispatch: any) => {
+    dispatch({
+      type: "setTimeFrame",
       payload: state,
     });
   };

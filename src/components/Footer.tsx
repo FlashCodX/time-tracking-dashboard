@@ -1,9 +1,9 @@
 import { useSelector } from "react-redux";
-import styles from "../styles/Footer.module.css";
+import styles from "../styles/footer.module.css";
 
 function Footer() {
   const { attribution } = styles;
-  const { appTheme }: any = useSelector((state) => state);
+  const { appTheme }: any = useSelector((state: any) => state);
 
   return (
     <footer

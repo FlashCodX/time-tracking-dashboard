@@ -1,15 +1,16 @@
-# React Redux Template
+# Time Tracking Dashboard
 
-A React template with typescript, css resets, redux state management, and best practice file structure.
+# ![preview](./src/assets/screenshot.png)
 
-Clone and install all needed dependencies.
+A challenge made for Frontend Mentor.
 
-```sh
-$ git clone https://github.com/FlashCodX/react-redux-template
-$ cd react-redux-template
-$ npm install
-$ npm start
-```
+> Check it out: [https://FlashCodX.github.io/time-tracking-dashboard/]https://FlashCodX.github.io/time-tracking-dashboard/)
+
+## Tech
+
+- [React] - HTML enhanced for web apps!
+- [Redux] - A global state management.
+- [CSS Modules] - Used to prevent class overlap.
 
 ## License
 
@@ -18,3 +19,6 @@ MIT
 **Free Software, Hell Yeah!**
 
 [react]: https://reactjs.org/
+
+[reacticons] - https://react-icons.github.io/react-icons/
+[redux] - https://redux.js.org/
